@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="pizzaria Search Profile">92323f9813f34210f333a0f7e2bd301d</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 02:39:56</sys_created_on>
+        <sys_id>96323f986ff34210821e8c7f93fd701c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.pizzaria Search Profile</sys_name>
+        <sys_package display_value="Pizzaria" source="x_1437314_pizzaria">e24cdf1c83734210529ef696feaad391</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pizzaria">e24cdf1c83734210529ef696feaad391</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_96323f986ff34210821e8c7f93fd701c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 02:39:56</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

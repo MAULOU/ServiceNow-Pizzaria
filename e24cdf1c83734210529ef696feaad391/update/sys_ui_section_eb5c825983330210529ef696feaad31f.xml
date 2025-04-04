@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_1437314_pizzaria_pizzaria" section_id="eb5c825983330210529ef696feaad31f" sys_domain="global" table="x_1437314_pizzaria_pizzaria" version="3" view="Consulta_pime">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nome</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>dff8d5c483531210529ef696feaad3f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>5ff8d5c483531210529ef696feaad3fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ppe</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>57f8d5c483531210529ef696feaad3fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>5ff8d5c483531210529ef696feaad3fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>57f8d5c483531210529ef696feaad3fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>5ff8d5c483531210529ef696feaad3fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>57f8d5c483531210529ef696feaad3fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-19 20:31:42</sys_created_on>
+            <sys_id>17f819c483531210529ef696feaad30a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1437314_pizzaria_pizzaria" display_value="x_1437314_pizzaria_pizzaria" name="x_1437314_pizzaria_pizzaria" sys_domain="global" view="af5c825983330210529ef696feaad31a">eb5c825983330210529ef696feaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-19 20:31:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_1437314_pizzaria_pizzaria</caption>
+            <header>false</header>
+            <name>x_1437314_pizzaria_pizzaria</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-02 21:48:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb5c825983330210529ef696feaad31f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1437314_pizzaria_pizzaria</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Pizzaria" source="x_1437314_pizzaria">e24cdf1c83734210529ef696feaad391</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pizzaria">e24cdf1c83734210529ef696feaad391</sys_scope>
+            <sys_update_name>sys_ui_section_eb5c825983330210529ef696feaad31f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-02 21:48:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Consulta pime" name="Consulta_pime">af5c825983330210529ef696feaad31a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Dashboard Library</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 02:39:57</sys_created_on>
+        <sys_id>52323f9880f34210f1eb8aaffbc08608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard Library</sys_name>
+        <sys_package display_value="Pizzaria" source="x_1437314_pizzaria">e24cdf1c83734210529ef696feaad391</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pizzaria">e24cdf1c83734210529ef696feaad391</sys_scope>
+        <sys_update_name>sys_ux_screen_type_52323f9880f34210f1eb8aaffbc08608</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 02:39:57</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=52323f9880f34210f1eb8aaffbc08608"/>
+</record_update>

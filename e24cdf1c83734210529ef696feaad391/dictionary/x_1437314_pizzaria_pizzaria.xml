@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" db_object_id="d37c175c83734210529ef696feaad367" label="Pizzaria" max_length="40" name="x_1437314_pizzaria_pizzaria" type="collection">
+        <element label="nome" max_length="40" name="nome" type="string"/>
+        <element label="PPE" max_length="3" name="ppe" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

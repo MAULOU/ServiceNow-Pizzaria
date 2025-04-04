@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id/>
+        <limit>5</limit>
+        <order>300</order>
+        <section_header/>
+        <suggestion_type>Suggested Query Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 02:39:56</sys_created_on>
+        <sys_id>92323f9889f34210813b30c5c6f2d51a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Query Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Pizzaria" source="x_1437314_pizzaria">e24cdf1c83734210529ef696feaad391</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pizzaria">e24cdf1c83734210529ef696feaad391</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_92323f9889f34210813b30c5c6f2d51a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 02:39:56</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>
